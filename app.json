@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "iessapp",
+    "slug": "iessapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "extra": {
+      "eas": {
+        "projectId": "b45d19a6-8e62-420f-be94-498cad852535"
+      }
+    }
+  }
+}
